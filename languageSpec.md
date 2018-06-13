@@ -1,4 +1,5 @@
-```functionName(list, of, arguments)(
+```
+functionName(list, of, arguments)(
     function
     contents
 )
@@ -6,4 +7,5 @@
 {functionCall}
 <variableName>
 "string"
-[integer]```
+[integer]
+```
