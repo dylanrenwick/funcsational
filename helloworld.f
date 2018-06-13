@@ -1,0 +1,3 @@
+f(
+    {print} "Hello, World!"
+)
